@@ -11,9 +11,11 @@ Tecnologías con las que actualmente trabajo:
 - Sequelize - Postgres
 - CSS puro, CSS Modules
 
+Estoy en constante búsqueda de desafíos que me permitan aplicar mi experiencia y conocimiento para desarrollar soluciones efectivas y eficientes en el mundo de la tecnología.
+
 Puedes conectarte conmigo si compartes una pasión por la tecnología y el desarrollo de software, te dejo las siguientes cuentas:
 mail: yeisonvt@gmail.com y v_yeison@hotmail.com
 
-Habilidades: NODE JS / REACT / JS / HTML / CSS
+
 
 
