@@ -1,4 +1,4 @@
-# Hi there, I'm Yeison Valdeblanquez 🛡️☁️
+# Soy Yeison Valdeblanquez 🛡️☁️
 **Ingeniero de Sistemas | Especialista en Ciberseguridad | Auditor Interno ISO 27001 & 9001**
 
 Soy un profesional enfocado en la convergencia entre el desarrollo de software seguro, la infraestructura cloud y el cumplimiento normativo. Mi objetivo es garantizar la triada de la información (Confidencialidad, Integridad y Disponibilidad) mediante arquitecturas robustas en **Azure** y sistemas de gestión bajo estándares internacionales.
