@@ -1,5 +1,3 @@
-# [ SYSTEM STATUS: SECURE ] > USER: YEIVAL 🛡️
-
 Soy un **Analista de Ciberseguridad / Ingeniero de Sistemas** con más de 12 años de experiencia en infraestructura TI. Actualmente me especializo en la protección de activos digitales, análisis de amenazas (SOC) y hardening de sistemas.
 
 ---
